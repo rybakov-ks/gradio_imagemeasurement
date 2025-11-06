@@ -1,5 +1,5 @@
 # `gradio_imagemeasurement`
-<img alt="Static Badge" src="https://img.shields.io/badge/version%20-%200.0.1%20-%20orange">  
+[![PyPI version](https://img.shields.io/pypi/v/gradio-imagemeasurement.svg)](https://pypi.org/project/gradio-imagemeasurement/)
 
 A component for measuring the distance in pixels between two points in an image.
 
