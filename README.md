@@ -57,5 +57,5 @@ if __name__ == "__main__":
 ## Example
 
 <div align="center">
-  <img src="Images/ImageMeasurement.gif" alt="Example">
+  <img src="Image/ImageMeasurement.gif" alt="Example">
 </div>
