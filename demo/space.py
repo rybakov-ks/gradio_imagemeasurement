@@ -21,7 +21,7 @@ with gr.Blocks(
 # `gradio_imagemeasurement`
 
 <div style="display: flex; gap: 7px;">
-<img alt="Static Badge" src="https://img.shields.io/badge/version%20-%200.0.1%20-%20orange">  
+<a href="https://pypi.org/project/gradio_imagemeasurement/" target="_blank"><img alt="PyPI - Version" src="https://img.shields.io/pypi/v/gradio_imagemeasurement"></a> <a href="https://github.com/rybakov-ks/gradio_imagemeasurement/issues" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Issues-white?logo=github&logoColor=black"></a> 
 </div>
 
 A component for measuring the distance in pixels between two points in an image.

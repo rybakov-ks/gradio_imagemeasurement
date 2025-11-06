@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "gradio_imagemeasurement"
-version = "0.0.1"
+version = "0.0.2"
 description = "A component for measuring the distance in pixels between two points in an image."
 readme = "README.md"
 license = "GPL-3.0"
