@@ -1,14 +1,3 @@
----
-tags: [gradio-custom-component, Image]
-title: gradio_imagemeasurement
-short_description: A gradio custom component
-colorFrom: blue
-colorTo: yellow
-sdk: gradio
-pinned: false
-app_file: space.py
----
-
 # `gradio_imagemeasurement`
 <img alt="Static Badge" src="https://img.shields.io/badge/version%20-%200.0.1%20-%20orange">  
 
